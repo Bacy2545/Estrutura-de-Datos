@@ -1,3 +1,5 @@
+//Akil Yamid Barona Chalare
+//Miguel Angel Cabuyales
 #include <malloc.h>
 #include <stdio.h>
 #include <stdlib.h>
